@@ -1,6 +1,14 @@
 # Retrospectives Archive
 
-A collection of retrospective documents from completed projects.
+A comprehensive collection of retrospective documents, learnings, and analyses from completed projects.
+
+## Root-Level Retrospectives (Cross-Project)
+
+Overall collaboration and project retrospectives:
+
+- `COLLABORATION_RETROSPECTIVE.md` — High-level collaboration retrospective
+- `COMPREHENSIVE_COLLABORATION_RETROSPECTIVE.md` — Detailed comprehensive retrospective
+- `DEVELOPMENT_LEARNINGS.md` — Key learnings from development process
 
 ## Pizza Search App
 
